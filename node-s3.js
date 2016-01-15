@@ -16,7 +16,7 @@ var AmazonService = (function () {
     }
 
     //Input parameter "key" example : var key = 'files/' + fileId + '/' + uuid.v4() + '.' + extension;
-    //Input parameter "uuid" is the fileId from previous example
+    //Input parameter "uuid" is the fileId from previous row
     //Example of call : AmazonService.getUploadPayload(fileId, key, null, null, [], function(err, data) {})
 
     AmazonService.prototype.getUploadPayload = function (uuid, key, maxSize, expires, tags, cb) {
