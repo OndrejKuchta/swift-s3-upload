@@ -16,17 +16,17 @@ See the Server Code (node-s3.js file in this repositary) for more information.
 {
     "method" : "post",
     "payload" : {
-        "Policy" : "eyJleHBpcmF0aW9uIjoiMjAxNi0xLTE1VDE2OjQxOjM0WiIsImNvbmRpdGlvbnMiOlt7ImJ1Y2tldCI6ImpvaWR5bWVkaWEifSx7ImtleSI6ImdpZnQvZmE0YjVlYTktMTkzMi00YTkwLTlkYzctMDQ5ZjI3MTc3NzkzLzNlMzU1NjFmLTE5MDMtNDczMC04YTczLTIxNjgxOWViOTlkMS5tcDQifSxbInN0YXJ0cy13aXRoIiwiJHgtYW16LW1ldGEtdGFnIiwiIl0seyJDb250ZW50LVR5cGUiOiJ2aWRlby9tcDQifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwwLDEwNDg1NzYwXSx7IngtYW16LWNyZWRlbnRpYWwiOiJBS0lBSlNGS09PWTZZM1FMTlQ3QS8yMDE2MDExNS9ldS13ZXN0LTEvczMvYXdzNF9yZXF1ZXN0In0seyJ4LWFtei1kYXRlIjoiMjAxNjAxMTVUMDAwMDAwWiJ9LHsieC1hbXotYWxnb3JpdGhtIjoiQVdTNC1ITUFDLVNIQTI1NiJ9LHsieC1hbXotbWV0YS11dWlkIjoiZmE0YjVlYTktMTkzMi00YTkwLTlkYzctMDQ5ZjI3MTc3NzkzIn1dfQ==",
+        "Policy" : "eyJleHBpcmwwww9uIjoiMjAxNi0xLTE1VDE2OjQxOjM0WiIsImNvbmRpdGlvbnMiOlt7ImJ1Y2tldCI6ImpvaWR5bWVkaWEifSx7ImtleSI6ImdpZnQvZmE0YjVlYTktMTkzMi00YTkwLTlkYzctMDQ5ZjI3MTc3NzkzLzNlMzU1NjFmLTE5MDMtNDczMC04YTczLTIxNjgxOWViOTlkMS5tcDQifSxbInN0YXJ0cy13aXRoIiwiJHgtYW16LW1ldGEtdGFnIiwiIl0seyJDb250ZW50LVR5cGUiOiJ2aWRlby9tcDQifSxbImNvbnRlbnQtbGVuZ3RoLXJhbmdlIiwwLDEwNDg1NzYwXSx7IngtYW16LWNyZWRlbnRpYWwiOiJBS0lBSlNGS09PWTZZM1FMTlQ3QS8yMDE2MDExNS9ldS13ZXN0LTEvczMvYXdzNF9yZXF1ZXN0In0seyJ4LWFtei1kYXRlIjoiMjAxNjAxMTVUMDAwMDAwWiJ9LHsieC1hbXotYWxnb3JpdGhtIjoiQVdTNC1ITUFDLVNIQTI1NiJ9LHsieC1hbXotbWV0YS11dWlkIjoiZmE0YjVlYTktMTkzMi00YTkwLTlkYzctMDQ5ZjI3MTc3NzkzIn1dfQ==",
         "X-Amz-Signature" : "b42792b362bfcd77beee16434f6452c144487bb80a6aa1bda6b0b88c16316d7f",
         "X-Amz-Algorithm" : "AWS4-HMAC-SHA256",
         "Content-Type" : "video\/mp4",
-        "X-Amz-Credential" : "AKIAJSFKOOY6Y3QLNT7A\/20160115\/eu-west-1\/s3\/aws4_request",
+        "X-Amz-Credential" : "AKIAJSFKEEY6Y3QLNT7A\/20160115\/eu-west-1\/s3\/aws4_request",
         "x-amz-meta-tag" : [
         
         ],
         "X-Amz-Date" : "20160115T000000Z",
-        "key" : "gift\/fa4b5ea9-1932-4a90-9dc7-049f27177793\/3e35561f-1903-4730-8a73-216819eb99d1.mp4",
-        "x-amz-meta-uuid" : "fa4b5ea9-1932-4a90-9dc7-049f27177793"
+        "key" : "file\/fa4b5ea9-1932-4a90-9dc7-049f27377793\/3e35561f-1903-4730-8a73-215519eb99d1.mp4",
+        "x-amz-meta-uuid" : "fa4b5ea9-1932-4a90-9dc7-045627177793"
     },
     "payloadOrder" : [
     "key",
