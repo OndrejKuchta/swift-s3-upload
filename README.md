@@ -1,7 +1,7 @@
 # swift-s3-upload
-This is code example of uploading file (mp4 file in this case) from iOS device (Swift 2.0) to Amazon S3 bucket.
+This is example of uploading file (mp4 file in this case) from iOS device (Swift 2.0) to Amazon S3 bucket.
 It consists of 2 parts, the client in swift and server in JS (Node.js). All secrets are stored on the server side and clients gets 
-just the playload and policy information necesary to upload given file to the S3 bucket.
+just the playload and policy information necesary for uploading given file to the S3 bucket.
 
 
 ## Swift part (2.0)
