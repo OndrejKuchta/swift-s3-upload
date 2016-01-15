@@ -9,13 +9,13 @@ Pods used in this example
 * [Alamofire](https://github.com/Alamofire/Alamofire)
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) 
 
-### What it does:
+#### What it does:
 * Parse the JSON from server with playload and policy information
 * Gets the local data from storage which has to be send
 * Creates special POST HTTP Header for upload
 * Tracks progress of uploading
 
-### How to call the function 
+#### How to call the function 
 ```
 uploadInfo - info from server (playload and policy in JSON format).
 fileURL - Local file url to the file on the device.
