@@ -4,7 +4,9 @@ It consists of 2 parts, the client in swift and server in js. All secrets are st
 just the playload and policy information necesary to upload given file to the S3 bucket.
 
 
-## Swift code
+## Swift part (2.0)
+See the file in this repo : [upload-s3.swift](https://github.com/OndrejKuchta/swift-s3-upload/blob/master/upload-s3.swift)
+
 Pods used in this example
 * [Alamofire](https://github.com/Alamofire/Alamofire)
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) 
@@ -25,8 +27,12 @@ uploadVideo(uploadInfo: JSON, fileURL: NSURL)
 
 
 
-## Server (Node.js)
+## Server part (Node.js)
+See the file in this repo : [node-s3.js](https://github.com/OndrejKuchta/swift-s3-upload/blob/master/node-s3.js)
+
 You have to first install and configure [aws-sdk](https://aws.amazon.com/sdk-for-node-js/) to use this example.
+
+
 
 
 ##The MIT License
